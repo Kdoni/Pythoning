@@ -11,7 +11,6 @@ while True:
     numlist.append(value)
 average=sum(numlist)/len(numlist)
 print("The average is:",average)
-# allagh
 
 
 #A very nice way to construct a simple median code with lists.

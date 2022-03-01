@@ -48,4 +48,5 @@ for line in x:
 print("There were",count,"lines in the file with From as the first word.")
 
 """This was actually quite easy, compared to exercise 4.
-    Personal note: Always keep in mind the positioning of the orders."""
+    Personal note: Always keep in mind the positioning of the orders.
+    """
